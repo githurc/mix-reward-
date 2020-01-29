@@ -5,7 +5,7 @@ permalink: "/:title/"
 layout_style: list
 palette: blue
 header:
-  title: Ampersand
+  title: 員工優惠資訊
   logo_img: images/logo.png
   has_nav: true
 footer:
