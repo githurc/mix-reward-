@@ -3,7 +3,7 @@ title: Employee Benefits 員工優惠
 baseurl: "/"
 permalink: "/:title/"
 layout_style: list
-palette: black
+palette: blue
 header:
   title: Ampersand
   logo_img: images/logo.png
