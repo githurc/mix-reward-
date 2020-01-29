@@ -6,7 +6,7 @@ layout_style: list
 palette: blue
 header:
   title: 員工優惠資訊
-  logo_img: images/logo.png
+  logo_img: ''
   has_nav: true
 footer:
   content: "&copy; All rights reserved."
